@@ -1,0 +1,20 @@
+CREATED BY WYATT BAIR, DANIEL COHEN, DORA XIAO, AND EMILY SHEN:
+
+      @ @ @ @   @ @ @ @   @ @ @ @   @ @ @    @ @ @ @    @     @
+     @       @  @      @  @        @        @       @   @ @   @
+    @         @ @ @ @ @   @ @ @ @  @   @ @ @         @  @  @  @
+     @       @  @      @  @        @     @  @       @   @   @ @
+      @ @ @ @   @       @ @ @ @ @   @ @ @    @ @ @ @    @     @
+
+            @ @ @ @ @  @ @ @ @       @      @   @    
+                @      @      @     @ @     @   @      
+                @      @ @ @ @     @ @ @    @   @         
+                @      @      @   @     @   @   @             
+                @      @       @ @       @  @   @ @ @     
+                                                            
+Welcome to Oregon Trail Simplified!
+Even the creators of this game find it drab and devoid of energy.
+Have fun!
+
+press 1 to see highscores.
+press 2 to start the game.
